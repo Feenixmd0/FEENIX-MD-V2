@@ -64,9 +64,9 @@
 
 <hr>
 
-## DEPLOYMENT METHODS
+## DEPLOY IN HEROKU
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Feenixmd0/FEENIX-MD-V2/)
 
 <hr>
 
