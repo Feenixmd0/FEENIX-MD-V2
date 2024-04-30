@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://pair-js44-9c3a470e2d9b.herokuapp.com/)***
 
 *-Copy The Session ID to paste it in Heroku*
 
@@ -40,7 +40,7 @@
 
 
 ***
-pair code : https://pair-js44-9c3a470e2d9b.herokuapp.com/
+
 
 ### CONTRIBUTIONS 
 -Contributions to FEENIX-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
@@ -50,7 +50,7 @@ pair code : https://pair-js44-9c3a470e2d9b.herokuapp.com/
 ### LICENSE 
 -The FEENIX-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the Feenix-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
@@ -64,7 +64,7 @@ pair code : https://pair-js44-9c3a470e2d9b.herokuapp.com/
 - [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
 - [***kasun Sir***](https://github.com/Feenixmd0) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FEENIX-MD**
 
 - 👋 Hi, I’m @Feenixmd0
 - 👀 I’m interested in ...
