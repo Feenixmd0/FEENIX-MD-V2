@@ -1,8 +1,8 @@
 {
   "name":"FEENIX-MD",
-  "description":"An easy and simple WhatsApp bot developed by mr kasun ofc",
+  "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a48121b9928cfd98103e5.jpg",
+  "logo":"https://telegra.ph/file/de725ab76fc5fbb31beee.jpg",
   "repository":"https://github.com/Feenixmd0/FEENIX-MD-V2",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/d1f829913957196d67dfc.jpg",
+      "value":"https://telegra.ph/file/de725ab76fc5fbb31beee.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "KASUN SANDEEPA"
+    "value": "mr kasun"
   },
     "OWNER_NUMBER":
   {
